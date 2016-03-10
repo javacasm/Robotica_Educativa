@@ -1,9 +1,12 @@
-# Ejemplo de juguete: Zowi
+# Robótica Educativa
+
+## SmartLiving Marbella 2016
 
 ![CC](./images/Licencia CC.png)
 
+José Antonio Vacas @javacasm
 
-![Zowi](./images/Zowi_front.jpg)
+# Ejemplo de juguete: Zowi
 
 # Zowi es un robot
 
