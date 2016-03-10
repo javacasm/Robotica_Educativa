@@ -1,21 +1,36 @@
-# Robótica y educación
+# Robótica Educativa
 
-# Herramientas
+## SmartLiving Marbella 2016
 
 ![CC](./images/Licencia CC.png)
 
+José Antonio Vacas @javacasm
+
+# Herramientas
+
+
 ## [Arduino](https://github.com/javacasm/ProgramarParaEducar/blob/master/Arduino.md)
-* [Makey Makey](https://github.com/javacasm/ProgramarParaEducar/blob/master/MakeyMakey.md)
-* [Bitbloq](https://github.com/javacasm/ProgramarParaEducar/blob/master/BitBloq.md)
+
+![arduino](./images/Arduino_Uno_-_R3.jpg)
+
+[Bitbloq](https://github.com/javacasm/ProgramarParaEducar/blob/master/BitBloq.md)
+
+![bitbloq](./images/condicionales.png)
+
 ## Impresión 3D
+
+![prusa](./images/prusa.jpg)
 
 ## [Scratch](https://github.com/javacasm/ProgramarParaEducar/blob/master/Scratch.md)
 
+![scratch](./images/BloquesPropios.png)
+
 ## [AppInventor](https://github.com/javacasm/ProgramarParaEducar/blob/master/AppInventor.md)
+
+![AppInventor](./images/appInventor.png)
 
 ## [Proyectos](https://github.com/javacasm/ProgramarParaEducar/blob/master/Proyectos.md)
 
-# Actividades Extraescolares y En las aulas
-* Antes 100% Lego: una herramienta fantástia pero cara y cerrado
-  * Escornabot
-  * SkyBot
+[SkyBot](http://www.iearobotics.com/wiki/index.php?title=Mini-Skybot)
+
+![skubot](http://www.iearobotics.com/wiki/images/thumb/0/0b/Miniskybot-red-hand-r1.jpg/350px-Miniskybot-red-hand-r1.jpg)
