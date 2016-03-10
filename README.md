@@ -1,7 +1,10 @@
-# Robotica Educativa
+# Robótica Educativa
 
+## SmartLiving Marbella 2016
 
 ![CC](./images/Licencia CC.png)
+
+José Antonio Vacas @javacasm
 
 ## La moda de la robótica
 
@@ -43,6 +46,8 @@
 * ¿Necesito un taller?
 	* Trabajando fuera del aula
 
+## [OpenSource](./OpenSource.md)
+
 ## Ejemplos
 
 No todos los robots lo parecen
@@ -52,3 +57,5 @@ No todos los robots lo parecen
 * Robots que al moverse hacen matemáticas: matemáticas para hacer que un robot se mueva
 
 * ¿Puedo enseñar historia con Scratch?
+
+* [Zowi](./Zowi.md)
