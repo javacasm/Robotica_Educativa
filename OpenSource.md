@@ -22,13 +22,13 @@
 #### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
 
 ### Ejemplo: [Arduino](http://www.arduino.cc)
-![arduino](./imagenes/Arduino_Uno_-_R3.jpg)
+![arduino](./images/Arduino_Uno_-_R3.jpg)
 
 
 ### Ejemplo: impresoras 3D
 Imágenes, diseños, electrónica, programas
 
-![prusa](./imagenes/prusa.jpg)
+![prusa](./images/prusa.jpg)
 
 [¿Por qué usar Open Source en educación?](http://www.slideshare.net/josepujolperez/programacion-y-robtica-secundaria-open-source?next_slideshow=1)
 
@@ -37,10 +37,10 @@ Imágenes, diseños, electrónica, programas
 ## Recursos libres
 
 
-## [Coursera](https://es.coursera.org/)
+### [Coursera](https://es.coursera.org/)
 
-## [edx](https://www.edx.org/)
+### [edx](https://www.edx.org/)
 
-## [udacity](https://www.udacity.com/me#!/)
+### [udacity](https://www.udacity.com/me#!/)
 
-## [miriadax](https://miriadax.net/home)
+### [miriadax](https://miriadax.net/home)
