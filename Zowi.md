@@ -1,4 +1,4 @@
-# Taller de Zowi
+# Ejemplo de juguete: Zowi
 
 ![CC](./images/Licencia CC.png)
 
